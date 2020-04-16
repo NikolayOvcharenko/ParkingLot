@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Parking_Lot-task_main" target="1.8" />
+      <module name="Parking_Lot-task_test" target="1.8" />
+      <module name="Problems-A_simple_calculator_main" target="1.8" />
+      <module name="Problems-A_simple_calculator_test" target="1.8" />
+      <module name="Problems-Application_as_a_class_main" target="1.8" />
+      <module name="Problems-Application_as_a_class_test" target="1.8" />
+      <module name="Problems-Cart_main" target="1.8" />
+      <module name="Problems-Cart_test" target="1.8" />
+      <module name="Problems-House_inheritance_main" target="1.8" />
+      <module name="Problems-House_inheritance_test" target="1.8" />
+      <module name="Problems-Letters_main" target="1.8" />
+      <module name="Problems-Letters_test" target="1.8" />
+      <module name="Problems-Playing_with_time_main" target="1.8" />
+      <module name="Problems-Playing_with_time_test" target="1.8" />
+      <module name="Problems-Vowels_main" target="1.8" />
+      <module name="Problems-Vowels_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
